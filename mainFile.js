@@ -64,4 +64,5 @@ function calculateConstant(filePath) {
 }
 
 // Example: Execute the function with a sample JSON file
+calculateConstant('data1.json');
 calculateConstant('data.json');
